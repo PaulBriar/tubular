@@ -1,4 +1,4 @@
-# U-tube - TypeScript/React Youtube Clone
+# tubular - TypeScript/React Youtube Clone
 
 ## Front-End
 React - Create-React-App
